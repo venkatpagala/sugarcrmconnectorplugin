@@ -1,0 +1,1 @@
+connector between SugarCRM and Confluence
